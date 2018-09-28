@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-
+//    Yixin‘s review!!!!!!
     Button myButton;
     Button myButton2;
 
